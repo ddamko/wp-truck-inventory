@@ -647,7 +647,7 @@ add_filter('manage_truck_inventory_posts_columns', 'columns_remove_date');
 add_filter('manage_truck_item_number_posts_columns', 'columns_remove_date');
 
 /**
- * Truck Inventory Chassis Pool Query (!!NEEDS BE REFACTORED!!)
+ * Truck Inventory Chassis Pool Query (!!NEEDS TO BE REFACTORED!!)
  */
 function chassis_pool_submit() {
 
